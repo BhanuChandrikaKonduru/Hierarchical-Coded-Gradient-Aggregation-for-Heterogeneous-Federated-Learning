@@ -1,2 +1,5 @@
-# Hierarchical-Coded-Gradient-Aggregation-for-Heterogeneous-Federated-Learning
-Research implementation of hierarchical gradient aggregation using MDS and repetition codes for heterogeneous federated learning. Includes simulation of edge-helper-server setup and performance metrics.
+# Hierarchical-Coded Gradient Aggregation
+MATLAB + Python prototype for coded hierarchical federated learning across heterogeneous nodes. Implements Aligned-MDS and Punctured-MDS schemes to reduce communication load and straggler effects.  
+Paper submitted (Oct 2025) for conference review.  
+**Domains:** Distributed Coding | Federated Learning | MDS Codes
+
